@@ -1,0 +1,2 @@
+# noenchanting
+ No Enchanting!

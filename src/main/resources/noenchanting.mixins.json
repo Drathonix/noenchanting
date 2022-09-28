@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.drathonix.noenchanting.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "noenchanting.refmap.json",
+  "mixins": [
+    "MixinEnchantmentMenu"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
